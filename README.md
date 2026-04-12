@@ -73,7 +73,7 @@ The project includes visualisations such as:
 - Availability trends
 - Review activity analysis
 
-- <img width="1189" height="662" alt="image" src="https://github.com/user-attachments/assets/786ca60e-30fa-4d61-b4e6-dd71a3bf3b81" />
+<img width="1189" height="662" alt="image" src="https://github.com/user-attachments/assets/786ca60e-30fa-4d61-b4e6-dd71a3bf3b81" />
 
 <img width="1454" height="817" alt="image" src="https://github.com/user-attachments/assets/552aba8f-dce0-4c0a-bbf0-af61ea7482a4" />
 
