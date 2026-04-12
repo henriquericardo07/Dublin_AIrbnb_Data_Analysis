@@ -18,7 +18,7 @@ This type of analysis can help understand short-term rental markets and tourism 
 
 ## Dataset
 
-The dataset used for this project was obtained from Inside Airbnb, but chose especificaly Ireland.
+The dataset used for this project was obtained from Inside Airbnb, but chose especificaly Ireland. For this case I only used the listings.csv file
 
 Dataset includes information such as:
 
