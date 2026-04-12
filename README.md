@@ -84,3 +84,8 @@ The project includes visualisations such as:
 
 ---
 
+## 📁 Repository Structure
+├── data/
+├── notebooks/
+├── visuals/
+
