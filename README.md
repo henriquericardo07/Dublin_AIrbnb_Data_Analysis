@@ -34,6 +34,9 @@ Dataset includes information such as:
 Source:
 https://insideairbnb.com
 
+<img width="1444" height="636" alt="image" src="https://github.com/user-attachments/assets/c5b38635-f3fb-4a18-afcb-44e74000b983" />
+
+
 ---
 
 ## Tools & Technologies
@@ -69,6 +72,15 @@ The project includes visualisations such as:
 - Property type comparisons
 - Availability trends
 - Review activity analysis
+
+- <img width="1189" height="662" alt="image" src="https://github.com/user-attachments/assets/786ca60e-30fa-4d61-b4e6-dd71a3bf3b81" />
+
+<img width="1454" height="817" alt="image" src="https://github.com/user-attachments/assets/552aba8f-dce0-4c0a-bbf0-af61ea7482a4" />
+
+<img width="1457" height="816" alt="image" src="https://github.com/user-attachments/assets/3b2b3d47-b9bf-4ec9-ab57-005e4858b962" />
+
+<img width="1456" height="815" alt="image" src="https://github.com/user-attachments/assets/1ac08f61-8111-49a2-9465-6fa2a485b862" />
+
 
 ---
 
