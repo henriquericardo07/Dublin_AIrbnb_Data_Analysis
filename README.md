@@ -45,7 +45,7 @@ https://insideairbnb.com
 
 ---
 
-## 🔎 Analysis Performed
+## Analysis Performed
 
 ### Price Distribution
 Analysis of listing prices across different properties.
@@ -64,7 +64,7 @@ Understanding how location influences listing prices and demand.
 
 ---
 
-## 📈 Example Visualisations
+## Example Visualisations
 
 The project includes visualisations such as:
 
